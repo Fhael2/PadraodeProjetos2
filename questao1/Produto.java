@@ -36,7 +36,7 @@ public class Produto {
             o.atualizar(nome, quantidade);
         }
     }
-
+    
     public String getNome() {
     return nome;
     }
